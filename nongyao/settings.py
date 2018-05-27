@@ -14,7 +14,6 @@ BOT_NAME = 'nongyao'
 SPIDER_MODULES = ['nongyao.spiders']
 NEWSPIDER_MODULE = 'nongyao.spiders'
 
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'nongyao (+http://www.yourdomain.com)'
 
