@@ -2,6 +2,7 @@ import redis
 from nongyao.settings import start_urls, redis_key, REDIS_HOST
 from scrapy.cmdline import execute
 
+
 conn = redis.StrictRedis(host=REDIS_HOST)
 
 
